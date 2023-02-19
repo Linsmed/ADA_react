@@ -1,0 +1,25 @@
+.name {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.profilePic {
+  width: 100%;
+  height: 300px;
+}
+.descr {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.profileBtn {
+  padding: 10px;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+}
+.close {
+  text-align: right;
+  font-weight: 700;
+  padding: 5px;
+  cursor: pointer;
+}
